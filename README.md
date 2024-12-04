@@ -4,8 +4,10 @@ Linux Tutorials 🐧💻  Dive into Linux with easy-to-follow tutorials! From ba
 What you'll find here:
 
 ## Basic commands and file management 💻
-System administration tips and tricks 🔧
-Shell scripting basics 📝
-Networking and security 🔒
+- System administration tips and tricks 🔧
+- Shell scripting basics 📝
+- Networking and security 🔒
+- 
 And much more!
+
 Join the Linux revolution, and let’s get our hands dirty with the terminal! 🤖💥
