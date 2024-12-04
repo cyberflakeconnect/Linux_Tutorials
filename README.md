@@ -7,7 +7,7 @@ What you'll find here:
 - System administration tips and tricks 🔧
 - Shell scripting basics 📝
 - Networking and security 🔒
-- 
+
 And much more!
 
 Join the Linux revolution, and let’s get our hands dirty with the terminal! 🤖💥
